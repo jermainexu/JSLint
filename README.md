@@ -1,4 +1,4 @@
-JavaScriptASTParser
+JavaScript Abstract Syntax Tree (AST) Parser
 ===================
 
 Javascript AST Parser
